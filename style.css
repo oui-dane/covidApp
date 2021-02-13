@@ -1,0 +1,27 @@
+ header{
+ 	display: flex;
+ 	padding-bottom: 20px;
+ 	text-align: center;
+ 	background-color: lightblue;
+ 	justify-content: space-between;
+
+ }
+  canvas{
+	border: grey 1px solid ;
+	padding-right: 20px;
+}
+
+  #side{
+	border: black 1px solid;
+	scroll-behavior: initial;
+}
+.listitem{
+	background-color: lightblue;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	border-bottom: black 1px solid;
+}
+.listitem:hover{
+	background-color: lightgreen;
+	padding: 10px;
+}
